@@ -1,0 +1,12 @@
+https://pdf.datasheetcatalog.com/datasheets/560/493318_DS.pdf
+
+https://www.ti.com/lit/ds/symlink/sn54ls181.pdf
+
+https://web.archive.org/web/20120131123316/http://www.aeromech.usyd.edu.au/MTRXLAB/ref/components/TTL/DM74LS181.pdf
+
+http://www.bitsavers.org/pdf/dec/pdp12/fpp12/DEC-12-HFPPA-A-D_FPP12A_Floating-Point_Processor_Users_Manual.pdf
+
+
+
+// dp npt cote this as a source
+https://en.wikipedia.org/wiki/74181
