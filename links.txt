@@ -8,5 +8,5 @@ http://www.bitsavers.org/pdf/dec/pdp12/fpp12/DEC-12-HFPPA-A-D_FPP12A_Floating-Po
 
 
 
-// dp npt cote this as a source
-https://en.wikipedia.org/wiki/74181
+// future of ALUS
+https://link.springer.com/article/10.1007/s00542-019-04590-1
